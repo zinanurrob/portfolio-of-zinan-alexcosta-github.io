@@ -4,13 +4,12 @@
 
 
   
- @media (max-width:375px){
+ @media (max-width:425px){
 
 body {
 
 font-size:14px;
-margin:0;
-width:375px;
+
 
 }
 
