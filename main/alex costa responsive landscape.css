@@ -1,0 +1,10 @@
+/* for mobiles devices with small screen sizes to mobiles with large screen sizes (landscape mode) (starts)*/
+
+
+@media and (max-width:734px) (orientation:landscape)
+
+body{
+
+overflow-x:hidden;
+
+}
