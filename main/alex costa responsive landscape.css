@@ -7,7 +7,7 @@
   
  @media screen and (max-width:734px) (orientation:landscape){
 
-    body {
+    *{
     
     font-size:14px;
     overflow-x:hidden;
