@@ -5,7 +5,7 @@
 
 
   
- @media and (max-width:424px) (orientation:landscape){
+ @media (max-width:424px) and (orientation:landscape){
 
     *{
     
