@@ -5,11 +5,9 @@
 
 
   
- @media (orientation:landscape) and (max-width:300px){
+@media screen and (orientation: landscape) and (max-width: 600px){
 
     *{
-    
-    font-size:14px;
     overflow-x:hidden;
     
     }
