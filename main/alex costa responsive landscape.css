@@ -1,6 +1,6 @@
 /* for mobiles devices with small screen sizes to mobiles with large screen sizes (landscape mode) (starts)*/
 
-@media screen and (orientation: landscape){
+@media (max-width:600px) and (orientation: landscape){
 
     *{
         overflow-x:hidden;
