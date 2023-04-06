@@ -1,0 +1,1871 @@
+
+
+
+
+@media (max-width:1366px) {
+
+
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (min-width:992px) {
+
+
+    *{
+    
+        overflow-x: hidden;
+    }
+    
+    
+    #seventh-section-inner-circle-image-mobile {
+        display: none;
+    }
+     #become-the-man-text {
+        font-size: 29px;
+        top: 480px;
+        width: 44%;
+        line-height: 43px;
+        left: 1.7%;
+        color: white;
+        text-align: center;
+        font-family: "montserrat",sans-serif;
+        font-weight: lighter;
+        position: absolute;
+    }
+    
+    .m-responsive-home-button {
+        display: none;
+    }
+    
+    .mobile-vertion-background-photo-first-section-div {display: none;}
+    
+    
+    
+    #alex-costa-avatar {
+        position: absolute;
+        align-items: center;
+        display: flex;
+        align-content: center;
+        flex-wrap: wrap;
+        width: 70vw;
+        top: -613px;
+        left: 66px;
+        }
+    
+    
+    
+    #alex-costa-signature {
+        position: absolute;
+        top: -561px;
+        left: 400px;
+    }
+    
+    
+    
+    .backgrounddd-color {
+        position: absolute;
+        width: 1296px;
+        top: -702px;
+        background-color: #313236;
+        opacity: 50%;
+        height: 713px;
+    }
+    
+    #ready-to-become {
+        position: relative;
+        top: -294px;
+        font-size: 4vw;
+        letter-spacing: 8px;
+        left: -17px;
+    }
+
+    
+    
+    #best-version-of-yourself {
+        font-family: 'Exo', sans-serif;
+        font-size: 51px;
+        letter-spacing: 13px;
+        width: 1295px;
+        position: absolute;
+        top: -297px;
+        left: -336px;
+    }
+    
+    
+    #become-the-man {
+        font-family: montserrat, "sans-serif";
+        position: absolute;
+        top: -192px;
+        width: 1296px;
+        left: -342px;
+    }
+    
+    #first-innercircle-button {
+        border: 2px solid rgb(255,255,255);
+        position: absolute;
+        top: -88px;
+        left: 185px;
+        font-family: monospace;
+        border-radius: 1px;
+        font-size: 16px;
+        letter-spacing: 3px;
+        padding: 10px 16px 10px 16px;
+        font-weight: 400;
+        color: white;
+    }
+    
+    #first-innercircle-button:hover {
+        color: black;
+        background: white;
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
+    }
+    
+    
+    
+    #carousell-login-button {
+        width: 112%;
+        margin-left: 941px;
+        height: 50px;
+        border: 1px solid black;
+        position: absolute;
+        z-index: 1;
+        margin-top: -590px;
+    }
+    
+    #carousell-login-button:hover{
+    
+        color: black;
+        background-color: white;
+    }
+    
+    #followers-count-section {
+        position: absolute;
+        top: 712px;
+        left: 0px;
+        width: 1296px;
+        height: 75px;
+    }
+    
+    #follower-text {
+        position: relative;
+        height: 75px;
+    }
+    
+    #youtube-subscriber {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 27px;
+        font-weight: 300;
+        letter-spacing: 6.8px;
+        position: relative;
+        top: 8px;
+        left: 351px;
+    }
+    
+    #subscribers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        position: relative;
+        top: -11px;
+        left: 328px;
+        letter-spacing: 6px;
+    }
+    
+    #instagram-followers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 27px;
+        font-weight: 300;
+        letter-spacing: 7.8px;
+        position: relative;
+        top: -85px;
+        left: 590px;
+    }
+    
+    #followers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        position: relative;
+        top: -105px;
+        left: 565px;
+        letter-spacing: 6px;
+    }
+    
+    #youtube-view {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 27px;
+        font-weight: 300;
+        letter-spacing: 10px;
+        position: relative;
+        top: -179px;
+        left: 801px;
+    }
+    
+    #video-views {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        position: relative;
+        top: -198px;
+        left: 782px;
+        letter-spacing: 6px;
+    }
+    
+    #background-color-div {
+        background-color: transparent;
+        background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+    }
+    
+    #followers-border-white {
+        position: relative;
+        width: 220px;
+        top: -268px;
+        height: 51px;
+        left: 523px;
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+    }
+    
+    #about-me-section {
+        position: absolute;
+        width: 100%;
+        height: 767px;
+        top: 1159px;
+        background: #101010;
+        left: 0%;
+    }
+    
+    #alex-costa-pictures {
+        position: inherit;
+        top: 35px;
+        left: 13%;
+    }
+    
+    
+    #my-name-alex-costa-container {
+        position: absolute;
+        width: 40%;
+        top: 43px;
+        left: 45%;
+    }
+    
+    #my-name-is-alex-costa {
+        color: white;
+        letter-spacing: 3px;
+        line-height: 1.5em;
+        font-family: "montserrat",sans-serif;
+        font-weight: bold;
+        font-size: 2vw;
+        text-transform: uppercase;
+        }
+    
+    #about-me-text-div {
+        position: relative;
+        top: 207px;
+        width: 31%;
+        left: 45%;
+        color: #EAE3E3;
+        font-family: "montserrat",sans-serif;
+        height: 50px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        }
+    
+    #last-year-div {position: relative;top: 239px;width: 608px;left: 45%;color: #EAE3E3;font-family: "montserrat",sans-serif;height: 50px;}
+    
+    #although-we-try-div {position: relative;top: 257px;width: 27%;left: 45%;color: #EAE3E3;font-family: "montserrat",sans-serif;height: 50px;overflow-y: hidden;}
+    
+    #for-that-reason-div {position: relative;top: 314px;width: 27%;left: 45%;color: #EAE3E3;font-family: "montserrat",sans-serif;height: 50px;overflow-y: hidden;}
+    
+    #youre-now-invited-div {position: relative;top: 386px;width: 27%;left: 45%;color: #EAE3E3;font-family: "montserrat",sans-serif;height: 50px;overflow-y: hidden;}
+    
+    #look-inside-inner-cicle-link {
+        position: relative;
+        top: 438px;
+        left: 45%;
+        background: #C31111;
+        width: 500px;
+        display: block;
+        height: 51px;
+        font-family: montserrat,sans-serif;
+        text-decoration: none;
+        text-align: center;
+        color: white;
+        padding-top: 7px;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        -moz-transition: 0.4s;
+        -ms-transition: 0.4s;
+        -o-transition: 0.4s;
+    }
+    
+    #look-inside-inner-cicle-link:hover{
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        transition:0.4s ;
+        -webkit-transition:0.4s ;
+        -moz-transition:0.4s ;
+        -ms-transition:0.4s ;
+        -o-transition:0.4s ;
+        background-color: #FE3030;
+    }
+    
+    #innner-circle-introduction {
+        position: absolute;
+        top: 1452px;
+        height: 400px;
+        width: 100%;
+    }
+    
+    
+    #third-section {
+        position: absolute;
+        width: 100%;
+        top: 1926px;
+        display: block;
+        height: 950px;
+        left: 0%;
+    }
+    
+    #third-section-div {
+        position: relative;
+        width: inherit;
+        height: inherit;
+    }
+    
+    #first-image-third-section {
+        position: relative;
+        top: 85px;
+        left: 18%;
+    }
+    
+    #second-image-third-section {
+        position: relative;
+        top: 85px;
+        left: 27.99%;
+    }
+    
+    
+    #third-image-third-section {
+        position: relative;
+        width: 272px;
+        left: 37%;
+        top: 85px;
+        height: 365px;
+    }
+    
+    #what-makes-up {
+        color: #000000;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 4vw;
+        font-weight: 400;
+        position: relative;
+        top: 55px;
+        left: 13%;
+        letter-spacing: 7px;
+    }
+    
+    #mindset {
+        color: #000000;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1.2px;
+        position: relative;
+        top: -329px;
+        left: 22%;
+    }
+    
+    #outer-style {
+        color: #000000;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1.2px;
+        position: relative;
+        top: -368px;
+        left: 45%;
+    }
+    
+    #communication {
+        color: #000000;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1.2px;
+        position: relative;
+        top: -407px;
+        left: 66.7%;
+    }
+    
+    #piller-1 {
+        color: #C31111;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        position: relative;
+        top: -402px;
+        left: 23.6%;
+    }
+    
+    #piller-2 {
+        color: #C31111;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        position: relative;
+        top: -430px;
+        left: 48%;
+    }
+    
+    #piller-3 {
+        color: #C31111;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: 0.2px;
+        position: relative;
+        top: -457px;
+        left: 71%;
+    }
+    
+    
+    #piller-1-line-1-div {
+        position: absolute;
+        top: 703px;
+        left: 18%;
+        width: 300px;
+        line-height: 27px;
+        font-family: "montserrat",sans-serif;
+        font-size: 14px;
+    }
+    
+    #piller-1-line-2-div {
+        position: absolute;
+        top: 799px;
+        left: 18%;
+        width: 300px;
+        line-height: 27px;
+        font-family: "montserrat",sans-serif;
+        font-size: 14px;
+    }
+    
+    #piller-1-line-3-div {
+        position: absolute;
+        top: 897px;
+        left: 18%;
+        width: 300px;
+        line-height: 27px;
+        font-family: "montserrat",sans-serif;
+        font-size: 14px;
+    }
+    
+    
+    #piller-2-line-1-div {
+    
+    position: absolute;
+    
+    top: 702px;
+    
+    left: 42.5%;
+    
+    width: 285px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px;
+    }
+    
+    
+    
+    #piller-2-line-2-div {
+    
+    position: absolute;
+    
+    top: 793px;
+    
+    left: 42.5%;
+    
+    width: 300px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px;
+    }
+    
+    
+    
+    #piller-2-line-3-div {
+    
+    position: absolute;
+    
+    top: 888px;
+    
+    left: 42.5%;
+    
+    width: 300px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px;
+    }
+    
+    
+    #piller-3-line-1-div {
+    
+    position: absolute;
+    
+    top: 699px;
+    
+    left: 66%;
+    
+    width: 300px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px;
+    }
+    
+    #piller-3-line-2-div {
+    
+    position: absolute;
+    
+    top: 790px;
+    
+    left: 66%;
+    
+    width: 300px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px
+    }
+    
+    
+    #piller-3-line-3-div {
+    
+    position: absolute;
+    
+    top: 886px;
+    
+    left: 66%;
+    
+    width: 300px;
+    
+    line-height: 27px;
+    
+    font-family: "montserrat",sans-serif;
+    
+    font-size: 14px;
+    }
+    
+    #third-section-first-icon {
+        position: absolute;
+        top: 670px;
+        left: 83px;
+        color: red;
+    }
+    
+    #third-section-second-icon {
+        position: absolute;
+        top: 750px;
+        left: 83px;
+        color: red;
+    }
+    
+    #third-section-first-icon {
+        position: absolute;
+        top: 722px;
+        left: 16%;
+        color: red;
+    }
+    
+    #third-section-second-icon {
+        position: absolute;
+        top: 815px;
+        left: 16%;
+        color: red;
+    }
+    
+    #third-section-third-icon {position: absolute;top: 914px;left: 16%;color: red;}
+    
+    #third-section-fourth-icon {
+        position: absolute;
+        top: 719px;
+        left: 41%;
+        color: red;
+    }
+    
+    #third-section-fifth-icon {
+        position: absolute;
+        top: 811px;
+        left: 41%;
+        color: red;
+    }
+    
+    #third-section-sixth-icon {
+        position: absolute;
+        top: 908px;
+        left: 41%;
+        color: red;
+    }
+    
+    #third-section-seventh-icon {
+        position: absolute;
+        top: 718px;
+        left: 64.6%;
+        color: red;
+    }
+    
+    #third-section-eight-icon {position: absolute;top: 810px;left: 64.6%;color: red;}
+    
+    #third-section-ninght-icon {
+        position: absolute;
+        top: 905px;
+        left: 64.6%;
+        color: red;
+    }
+    
+    #fourth-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        height: 907px;
+        top: 2876px;
+    }
+    
+    
+    #what-will-the-inner-circle {
+        font-family: "fjalla one",sans-serif;
+        position: absolute;
+        top: 1px;
+        left: 4%;
+        color: white;
+        text-shadow: -2px -2px 10px rgb(0 0 0 / 20%);
+        font-size: 4vw;
+        line-height: 1.2;
+        width: 38%;
+        text-align: center;
+        font-weight: 900;
+        letter-spacing: 3.9px;
+        overflow-y: hidden;
+    }
+    
+    
+    #do-for-you-div {
+        position: absolute;
+        top: 230px;
+        background-color: white;
+        width: 490px;
+        left: 11%;
+        height: 100px;
+        transform: rotate(-3deg);
+        overflow-y: hidden;
+    }
+    
+    #do-for-you {
+        position: relative;
+        text-align: center;
+        font-size: 3vw;
+        top: -4px;
+        font-weight: 900;
+        padding: 10px 28px 10px 10px;
+        height: 133px;
+        width: 105%;
+        --e-global-typography-primary-font-family: montserrat;
+        color: #000000;
+        letter-spacing: 8px;
+    }
+    
+    
+    #fourth-section-pic-1 {
+        position: absolute;
+        width: 261px;
+        top: 447px;
+        left: 60%;
+        border: white 5px solid;
+        transform: rotate(-7deg);
+    }
+    
+    
+    #fourth-section-pic-3 {
+        position: absolute;
+        width: 261px;
+        border: white 5px solid;
+        top: 64px;
+        left: 71%;
+        transform: rotate(10deg);
+        -webkit-transform: rotate(10deg);
+        -moz-transform: rotate(10deg);
+        -ms-transform: rotate(10deg);
+        -o-transform: rotate(10deg);
+    }
+    
+    #fourth-section-pic-4 {
+        position: absolute;
+        width: 261px;
+        border: white 5px solid;
+        top: 318px;
+        left: 72%;
+        transform: rotate(17deg);
+    }
+    
+    #fourth-section-pic-2 {
+        position: absolute;
+        width: 261px;
+        border: white 5px solid;
+        top: 202px;
+        left: 60%;
+        transform: rotate(-25deg);
+    }
+    
+    #fourth-section-pic-5 {
+        position: absolute;
+        width: 261px;
+        top: 811px;
+        left: 73%;
+        border: white 5px solid;
+        transform: rotate(7deg);
+    }
+    
+    #fourth-section-background-pic {
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    
+    #fourth-section-background-overlay {
+        position: absolute;
+        background: #B41114;
+        width: 100%;
+        height: inherit;
+        top: 0px;
+        opacity: 90%;
+    }
+    
+    
+    #fourth-section-line-1-div {
+        position: absolute;
+        top: 382px;
+        width: 27%;
+        left: 12%;
+        font-family: "montserrat",sans-serif;
+        color: white;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    
+    #fourth-section-line-2-div {position: absolute;top: 465px;width: 27%;left: 12%;font-family: "montserrat",sans-serif;color: white;font-weight: 600;font-size: 15px;line-height: 35px;}
+    
+    #fourth-section-line-3-div {position: absolute;top: 548px;width: 27%;left: 12%;font-family: "montserrat",sans-serif;color: white;font-weight: 600;font-size: 15px;line-height: 35px;}
+    
+    
+    #fourth-section-line-4-div {position: absolute;top: 630px;width: 27%;left: 12%;font-family: "montserrat",sans-serif;color: white;font-weight: 600;font-size: 15px;line-height: 35px;}
+    
+    
+    #fourth-section-line-5-div {position: absolute;top: 714px;width: 27%;left: 12%;font-family: "montserrat",sans-serif;color: white;font-weight: 600;font-size: 15px;line-height: 35px;}
+    
+    #fourth-section-first-icon {
+        position: absolute;
+        top: 408px;
+        left: 10%;
+        color: white;
+    }
+    
+    #fourth-section-second-icon {
+        position: absolute;
+        top: 489px;
+        left: 10%;
+        color: white;
+    }
+    
+    #fourth-section-third-icon {
+        position: absolute;
+        top: 574px;
+        left: 10%;
+        color: white;
+    }
+    
+    #fourth-section-fourth-icon {
+        position: absolute;
+        top: 654px;
+        left: 10%;
+        color: white;
+    }
+    
+    #fourth-section-fifth-icon {
+        position: absolute;
+        top: 738px;
+        left: 10%;
+        color: white;
+    }
+    
+    
+    #look-inside-inner-cicle-link-2 {
+        background: white;
+        width: 500px;
+        display: block;
+        height: 65px;
+        font-family: montserrat,sans-serif;
+        text-decoration: none;
+        text-align: center;
+        color: white;
+        padding-top: 13px;
+        font-size: 25px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        position: absolute;
+        top: 821px;
+        left: 12%;
+        color: black;
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        -moz-transition: 0.4s;
+        -ms-transition: 0.4s;
+        -o-transition: 0.4s;
+    }
+    
+    #look-inside-inner-cicle-link-2:hover{
+        transform:scale(1.1);
+        -moz-transform:scale(1.1);
+        -ms-transform:scale(1.1);
+        -o-transform:scale(1.1);
+        -webkit-transform:scale(1.1);
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        -moz-transition: 0.4s;
+        -ms-transition: 0.4s;
+        -o-transition: 0.4s;
+    }
+    
+    #fifth-section {
+        position: absolute;
+        width: 100%;
+        height: 1380px;
+        top: 3542px;
+        background-color: black;
+    }
+    
+    #fifth-section-insta-icon {
+        position: absolute;
+        top: 78px;
+        left: 26%;
+        font-size: 60px;
+        color: #C3118E;
+    }
+    
+    #fifth-section-follow-alex-costa-div {
+        position: absolute;
+        left: 31%;
+        font-family: "merriweather",montserrat;
+        color: white;
+        top:92px;
+    }
+    
+    #fifth-section-follow-alex-costa {
+        font-size: 56px;
+    }
+    
+    #follow-alex-costa-pic-1-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    
+    
+    #follow-alex-costa-pic-1-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic {
+        width: inherit;
+        height: inherit;
+    }
+    
+    
+    #follow-alex-costa-pic-2-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-2-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-2 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-3-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-3-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-3{
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-4-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-4-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-4{
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-5-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-5-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-5 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-6-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-6-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-6 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-7-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-7-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-7 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    
+    #follow-alex-costa-pic-8-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-8-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-8 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    
+    #follow-alex-costa-pic-9-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+    }
+    #follow-alex-costa-pic-9-link {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-9 {
+        width: inherit;
+        height: inherit;
+    }
+    
+    #follow-alex-costa-pic-1-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 231px;
+        left: 17%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    #follow-alex-costa-pic-2-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 231px;
+        left: 38%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    #follow-alex-costa-pic-3-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 231px;
+        left: 59%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    #follow-alex-costa-pic-4-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 595px;
+        left: 17%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    #follow-alex-costa-pic-5-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 595px;
+        left: 38%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    #follow-alex-costa-pic-6-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 595px!important;
+        left: 59%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    #follow-alex-costa-pic-7-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 972px;
+        left: 17%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    
+    
+    #follow-alex-costa-pic-8-div {
+        width: 300px;
+        height: 300px;
+        top: 972px;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+        position: absolute;
+        left: 38%;
+    }
+    
+    
+    #follow-alex-costa-pic-9-div {
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        top: 972px;
+        left: 59%;
+        transition: 0.6s;
+        -webkit-transition: 0.6s;
+        -moz-transition: 0.6s;
+        -ms-transition: 0.6s;
+        -o-transition: 0.6s;
+    }
+    
+    #follow-alex-costa-pic-1-div:hover{
+        top:220px;
+        transition:0.4s;
+        -webkit-transition:0.4s;
+        -moz-transition:0.4s;
+        -ms-transition:0.4s;
+        -o-transition:0.4s;
+    }
+    
+    
+    
+    #follow-alex-costa-pic-2-div:hover{
+    
+        top:220px;
+        transition:0.4s;
+        -webkit-transition:0.4s;
+        -moz-transition:0.4s;
+        -ms-transition:0.4s;
+        -o-transition:0.4s;
+    
+    }
+    #follow-alex-costa-pic-3-div:hover{
+    
+        top:220px;
+        transition:0.4s;
+        -webkit-transition:0.4s;
+        -moz-transition:0.4s;
+        -ms-transition:0.4s;
+        -o-transition:0.4s;
+    }
+    
+    
+    #follow-alex-costa-pic-4-div:hover{
+    
+    top: 575px;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    }
+    
+    #follow-alex-costa-pic-5-div:hover{
+    
+    top: 575px;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    }
+    
+    #follow-alex-costa-pic-6-div:hover{
+    
+    top: 575px!important;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    }
+    #follow-alex-costa-pic-7-div:hover{
+    
+    top: 947px;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    
+    position: absolute;
+    }
+    
+    #follow-alex-costa-pic-8-div:hover{
+    
+    top: 947px;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    }
+    
+    #follow-alex-costa-pic-9-div:hover {
+    
+    top: 947px;
+    
+    transition:0.4s;
+    
+    -webkit-transition:0.4s;
+    
+    -moz-transition:0.4s;
+    
+    -ms-transition:0.4s;
+    
+    -o-transition:0.4s;
+    }
+    
+    
+    #sixth-section {
+        position: absolute;
+        width: 100%;
+        height: 1650px;
+        top: 4924px;
+        background-color: white;
+    }
+    
+    #sixth-section-youtube-icon {
+        position: absolute;
+        top: 55px;
+        left: 47%;
+        font-size: 60px;
+        color: red;
+    }
+    
+    #sixth-section-watch-alex-costa-div {
+        position: absolute;
+        top: 63px;
+        left: 57%;
+    }
+    
+    #sixth-section-watch-alex-costa {
+        font-family: abhaya libre;
+        font-size: 70px;
+    }
+    
+    
+    #sixth-section-youtube-video-1 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 193px;
+        left: 21%;
+    }
+    
+    #sixth-section-youtube-video-2 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 193px;
+        left: 52%;
+    }
+    
+    #sixth-section-youtube-video-3 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 540px;
+        left: 21%;
+    }
+    
+    
+    #sixth-section-youtube-video-4 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 540px;
+        left: 52%;
+    }
+    
+    #sixth-section-youtube-video-5 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 890px;
+        left: 21%;
+    }
+    
+    #sixth-section-youtube-video-6 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 890px;
+        left: 52%;
+    }
+    
+    #sixth-section-youtube-video-7 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 1240px;
+        left: 21%;
+    }
+    
+    #sixth-section-youtube-video-8 {
+        width: 520px;
+        height: 300px;
+        position: absolute;
+        top: 1240px;
+        left: 52%;
+    }
+    
+    #seventh-section {
+        position: absolute;
+        width: 100%;
+        height: 715px;
+        top: 6576px;
+    }
+    
+    #seventh-section-background-image-1 {
+        position: absolute;
+        width: 33.99%;
+        height: inherit;
+    }
+    
+    #seventh-section-background-image-2 {
+        position: absolute;
+        left: 67.3%;
+        width: 32.7%;
+        height: inherit;
+    }
+    
+    #seventh-section-background-image-3 {
+        position: absolute;
+        left: 34%;
+        width: 33.3%;
+        height: inherit;
+    }
+    
+    
+    #seventh-section-background-photo-dissolver {
+        position: absolute;
+        width: inherit;
+        height: inherit;
+        background-color: #000000a6;
+    }
+    
+    #seventh-section-stand-a-level-above {
+        position: absolute;
+        color: white;
+        top: 37px;
+        left: 359px;
+        font-family: "montserrat",sans-serif;
+        font-size: 150%;
+    }
+    
+    
+    #seventh-section-stand-a-level-above {
+        position: absolute;
+        color: white;
+        top: 37px;
+        left: 35.63%;
+        font-family: "montserrat",sans-serif;
+        font-size: 150%;
+    }
+    
+    #seventh-section-inner-circle-text {
+        position: absolute;
+        color: white;
+        top: 67px;
+        left: 28%;
+        --e-global-typography-primary-font-family: montserrat;
+        font-size: 100px;
+        overflow-y: hidden;
+    }
+    
+    #seventh-section-an-ambitious-men-text {
+        position: absolute;
+        color: white;
+        top: 198px;
+        left: 20.8%;
+        font-family: "montserrat",sans-serif;
+        font-size: 150%;
+    }
+    
+    #seventh-section-inner-circle-image {
+        position: absolute;
+        top: 209px;
+        transform: scale(0.7);
+        left: 18%;
+        display: inline;
+        width: 78%;
+        height: 400px;
+        z-index: 1;
+    }
+    
+    #seventh-section-look-inside-inner-circle-link-last {
+        position: absolute;
+        top: 613px;
+        left: 34%;
+        background: #C31111;
+        width: 580px;
+        display: block;
+        height: 61px;
+        font-family: montserrat,sans-serif;
+        text-decoration: none;
+        text-align: center;
+        color: white;
+        padding-top: 7px;
+        font-size: 30px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        -moz-transition: 0.4s;
+        -ms-transition: 0.4s;
+        -o-transition: 0.4s;
+    }
+    
+    #seventh-section-look-inside-inner-circle-link-last:hover{
+        background-color: #FE3030;
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        transition: 0.4s;
+        -webkit-transition: 0.4s;
+        -moz-transition: 0.4s;
+        -ms-transition: 0.4s;
+        -o-transition: 0.4s;
+    }
+    
+    #last-section {
+        position: absolute;
+        width: 100%;
+        height: 295px;
+        top: 7291px;
+        background-color: #181920;
+    }
+    
+    #footer-logo {
+        position: absolute;
+        width: 180px;
+        top: 68px;
+        left: 20%;
+        cursor: pointer;
+    }
+    
+    #footer-home-link {
+        position: absolute;
+        left: 36%;
+        color: #C6C6C6;
+        font-weight: 700;
+        font-size: 13px;
+        top: 76px;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 8px;
+    }
+    
+    #footer-members-area-link {
+        position: absolute;
+        left: 42%;
+        color: white;
+        font-weight: 700;
+        font-size: 13px;
+        top: 76px;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 8px;
+    }
+    
+    #footer-members-area-link:hover{
+    
+        color: #C6C6C6;
+    }
+    
+    #footer-terms-of-service-link {
+        position: absolute;
+        left: 54%;
+        color: white;
+        font-weight: 700;
+        font-size: 13px;
+        top: 76px;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 8px;
+    }
+    
+    #footer-terms-of-service-link:hover{
+    
+        color: #C6C6C6;
+    }
+    
+    #footer-privacy-policy-link {
+        position: absolute;
+        left: 40%;
+        color: white;
+        font-weight: 700;
+        font-size: 13px;
+        top: 119px;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 8px;
+    }
+    
+    #footer-privacy-policy-link:hover {
+    
+        color: #C6C6C6;
+    }
+    
+    #footer-support-link {
+        position: absolute;
+        left: 53%;
+        color: white;
+        font-weight: 700;
+        font-size: 13px;
+        top: 119px;
+        cursor: pointer;
+        text-decoration: none;
+        letter-spacing: 8px;
+    }
+    
+    #footer-support-link:hover{
+    
+    color: #C6C6C6;
+    
+    }
+    
+    #footer-facebook-logo-div {
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        top: 60px;
+        left: 75%;
+        cursor: pointer;
+    }
+    
+    #footer-insta-logo-div {
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        top: 60px;
+        left: 78%;
+        cursor: pointer;
+    }
+    
+    #footer-youtube-logo-divs {
+        position: absolute;
+        font-size: 30px;
+        color: white;
+        top: 60px;
+        left: 81%;
+        cursor: pointer;
+    }
+    
+    #footer-copyright-text {
+        position: absolute;
+        color: white;
+        top: 180px;
+        left: 41%;
+        font-size: 18px;
+    }
+    
+    
+    
+    #carousel-section{
+
+        width: 150%;
+    
+        }
+    
+       .carousel-indicators {
+            position: absolute;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: 2;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+
+       }
+    
+   
+       #carousel{
+
+        margin-left:-380px
+    
+        }
+    
+    
+        .backgrounddd-color {
+            position: absolute;
+            width: 150%;
+            top: -702px;
+            background-color: #313236;
+            opacity: 65%;
+            height: 713px;
+        }
+
+        
+        #video-carousel-example{
+
+            max-width: 150%;
+        
+            }
+    
+        #alex-costa-avatar {
+        position: absolute;
+        width: 10%;
+        top: 47px;
+        left: 2%;
+        }
+    
+        #alex-costa-signature {
+            position: absolute;
+            align-items: center;
+            display: flex;
+            align-content: center;
+            flex-wrap: wrap;
+            width: 50%;
+            top: -500px;
+            opacity:0%;
+        }
+    
+        #ready-to-become {
+            position: relative;
+            top: 414px;
+            font-size: 2vw;
+            letter-spacing: 8px;
+            left: 23%;
+            color: white;
+        }
+    
+       
+    #best-version-of-yourself-text {
+        position: absolute;
+        font-size: 42px;
+        top: -219px;
+        font-weight: bolder;
+        width: 461px;
+        line-height: 43px;
+        left: -64px;
+    }
+    
+        #become-the-man {
+            position: absolute;
+            top: -104px;
+            font-size: 22px;
+            width: 600px;
+            left: -144px;
+            letter-spacing: 5px;
+        }
+    
+       
+#first-innercircle-button {
+    border: 2px solid rgb(255,255,255);
+    position: absolute;
+    top: -88px;
+    left: 185px;
+    font-family: monospace;
+    border-radius: 1px;
+    font-size: 16px;
+    letter-spacing: 3px;
+    padding: 10px 16px 10px 16px;
+    font-weight: 400;
+    color: white;
+}
+
+#first-innercircle-button:hover {
+    color: black;
+    background: white;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+        
+      
+    
+        #followers-count-section {
+            position: absolute;
+            top: 1084px;
+            left: 0px;
+            width: 100%;
+            height: 75px;
+        }
+    
+        #background-color-div {
+            background-color: transparent;
+            background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+        }
+    
+        #follower-text {
+            position: relative;
+            height: 75px;
+            width: 100%;
+            overflow-x: hidden;
+            overflow-y: hidden;
+        }
+        
+        #youtube-subscriber {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 30px;
+        font-weight: 300;
+        letter-spacing: 6.8px;
+        position: relative;
+        top: 5px;
+        left: 33%;
+        }
+    
+        #subscribers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        position: relative;
+        top: -12px;
+        left: 32%;
+        letter-spacing: 6px;
+        max-width: 300px;
+        }
+        
+        #instagram-followers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 30px;
+        font-weight: 300;
+        letter-spacing: 7.8px;
+        position: relative;
+        top: -94px;
+        left: 44.3%;
+        height: 64px;
+        width: 158px;
+        padding-left: 25px;
+        }
+        
+        #followers {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        position: relative;
+        top: -130px;
+        left: 44.8%;
+        letter-spacing: 6px;
+        }
+        
+        #youtube-view {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 30px;
+        font-weight: 300;
+        letter-spacing: 10px;
+        position: relative;
+        top: -210px;
+        left: 57%;
+        }
+        
+        #video-views {
+        color: white;
+        font-family: "Montserrat", Sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        position: relative;
+        top: -228px;
+        left: 56.79%;
+        letter-spacing: 5px;
+        }
+        
+        #background-color-div {
+            background-color: transparent;
+            background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+        }
+        
+        #followers-border-white {
+        position: relative;
+        width: 220px;
+        top: -303px;
+        height: 51px;
+        left: 42.7%;
+        border-left: 1px solid white;
+        border-right: 1px solid white;
+        }
+    
+    
+    
+    
+    
+    }
+    
