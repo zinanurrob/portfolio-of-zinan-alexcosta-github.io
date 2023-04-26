@@ -1,0 +1,1815 @@
+
+@media screen and (max-width:1400px) {
+
+
+#alex-costa-avatar {
+    position: absolute;
+    top: -694px;
+    left: -150px;
+    width: 250px;
+}
+
+
+
+#alex-costa-signature {
+    position: absolute;
+    top: -561px;
+    left: 400px;
+}
+
+
+
+.backgrounddd-color {
+    position: absolute;
+    width: 1296px;
+    top: -702px;
+    background-color: #313236;
+    opacity: 50%;
+    height: 713px;
+}
+
+#ready-to-become {
+    position: absolute;
+    top: -364px;
+    letter-spacing: 5px;
+    font-family: arial;
+    font-size: 30px;
+    left: 131px;
+}
+
+
+#best-version-of-yourself {
+    font-family: 'Exo', sans-serif;
+    font-size: 51px;
+    letter-spacing: 13px;
+    width: 1295px;
+    position: absolute;
+    top: -297px;
+    left: -336px;
+}
+
+
+#become-the-man {
+    font-family: montserrat, "sans-serif";
+    position: absolute;
+    top: -192px;
+    width: 1296px;
+    left: -342px;
+}
+
+#first-innercircle-button {
+    border: 2px solid rgb(255,255,255);
+    position: absolute;
+    top: -88px;
+    left: 185px;
+    font-family: monospace;
+    border-radius: 1px;
+    font-size: 16px;
+    letter-spacing: 3px;
+    padding: 10px 16px 10px 16px;
+    font-weight: 400;
+    color: white;
+}
+
+#first-innercircle-button:hover {
+    color: black;
+    background: white;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+
+
+
+#carousell-login-button {
+    width: 112%;
+    margin-left: 941px;
+    height: 50px;
+    border: 1px solid black;
+    position: absolute;
+    z-index: 1;
+    margin-top: -590px;
+}
+
+#carousell-login-button:hover{
+
+    color: black;
+    background-color: white;
+}
+
+#followers-count-section {
+    position: absolute;
+    top: 712px;
+    left: 0px;
+    width: 1296px;
+    height: 75px;
+}
+
+#follower-text {
+    position: relative;
+    height: 75px;
+}
+
+#youtube-subscriber {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+    letter-spacing: 6.8px;
+    position: relative;
+    top: 8px;
+    left: 351px;
+}
+
+#subscribers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: -11px;
+    left: 328px;
+    letter-spacing: 6px;
+}
+
+#instagram-followers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+    letter-spacing: 7.8px;
+    position: relative;
+    top: -85px;
+    left: 590px;
+}
+
+#followers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: -105px;
+    left: 565px;
+    letter-spacing: 6px;
+}
+
+#youtube-view {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+    letter-spacing: 10px;
+    position: relative;
+    top: -179px;
+    left: 801px;
+}
+
+#video-views {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: -198px;
+    left: 782px;
+    letter-spacing: 6px;
+}
+
+#background-color-div {
+    background-color: transparent;
+    background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+}
+
+#followers-border-white {
+    position: relative;
+    width: 220px;
+    top: -268px;
+    height: 51px;
+    left: 523px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+#about-me-section {
+    position: absolute;
+    width: 1296px;
+    height: 665px;
+    top: 787px;
+    background: #101010;
+}
+
+#alex-costa-pictures {
+    position: inherit;
+    top: 35px;
+    left: 84px;
+}
+
+
+#my-name-alex-costa-container {
+    position: absolute;
+    width: 544px;
+    top: 62px;
+    left: 624px;
+    
+}
+
+#my-name-is-alex-costa {
+    color: white;
+    letter-spacing: 3px;
+    line-height: 1.5em;
+    font-family: "montserrat",sans-serif;
+    font-weight: bold;
+    font-size: 2vw;
+    text-transform: uppercase;
+    }
+
+#about-me-text-div {
+    position: relative;
+    top: -360px;
+    width: 608px;
+    left: 624px;
+    color: #EAE3E3;
+    font-family: "montserrat",sans-serif;
+    height: 50px;
+    }
+
+#last-year-div {
+
+    position: relative;
+    top: -324px;
+    width: 608px;
+    left: 624px;
+    color: #EAE3E3;
+    font-family: "montserrat",sans-serif;
+    height: 50px;
+    
+}
+
+#although-we-try-div {
+
+
+    position: relative;
+    top: -315px;
+    width: 608px;
+    left: 624px;
+    color: #EAE3E3;
+    font-family: "montserrat",sans-serif;
+    height: 50px;
+    letter-spacing: 1px;
+
+}
+
+#for-that-reason-div {
+
+    position: relative;
+    top: -265px;
+    width: 608px;
+    left: 624px;
+    color: #EAE3E3;
+    font-family: "montserrat",sans-serif;
+    height: 50px;
+    letter-spacing: 1px;
+
+}
+
+#youre-now-invited-div {
+
+    position: relative;
+    top: -230px;
+    width: 608px;
+    left: 624px;
+    color: #EAE3E3;
+    font-family: "montserrat",sans-serif;
+    height: 50px;
+
+}
+
+#look-inside-inner-cicle-link {
+    position: relative;
+    top: -182px;
+    left: 625px;
+    background: #C31111;
+    width: 500px;
+    display: block;
+    height: 51px;
+    font-family: montserrat,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+#look-inside-inner-cicle-link:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transition:0.4s ;
+    -webkit-transition:0.4s ;
+    -moz-transition:0.4s ;
+    -ms-transition:0.4s ;
+    -o-transition:0.4s ;
+    background-color: #FE3030;
+}
+
+#innner-circle-introduction {
+    position: absolute;
+    top: 1452px;
+    height: 400px;
+    width: 100%;
+}
+
+
+#third-section {
+    position: absolute;
+    width: 1296px;
+    top: 1452px;
+    display: block;
+    height: 900px;
+}
+
+#third-section-div {
+    position: relative;
+    width: inherit;
+    height: inherit;
+}
+
+#first-image-third-section {
+    position: relative;
+    top: 85px;
+    left: 110px;
+}
+
+#second-image-third-section {
+    position: relative;
+    top: 85px;
+    left: 211px;
+}
+
+
+#third-image-third-section {
+    position: relative;
+    width: 272px;
+    left: 310px;
+    top: 85px;
+    height: 365px;
+}
+
+#what-makes-up {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 4vw;
+    font-weight: 400;
+    position: relative;
+    top: 55px;
+    left: 119px;
+    letter-spacing: 7px;
+}
+
+#mindset {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 2.4vw;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    position: relative;
+    top: -345px;
+    left: 164px;
+}
+
+#outer-style {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 2.4vw;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    position: relative;
+    top: -388px;
+    left: 515px;
+}
+
+#communication {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 2.4vw;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    position: relative;
+    top: -433px;
+    left: 866px;
+}
+
+#piller-1 {
+    color: #C31111;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 1.6vw;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    position: relative;
+    top: -425px;
+    left: 195px;
+}
+
+#piller-2 {
+    color: #C31111;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 1.6vw;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    position: relative;
+    top: -458px;
+    left: 580px;
+}
+
+#piller-3 {
+    color: #C31111;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 1.6vw;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    position: relative;
+    top: -489px;
+    left: 970px;
+}
+
+
+#piller-1-line-1-div {
+    position: absolute;
+    top: 656px;
+    left: 112px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+}
+
+#piller-1-line-2-div {
+    position: absolute;
+    top: 734px;
+    left: 112px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+}
+
+#piller-1-line-3-div {
+    position: absolute;
+    top: 808px;
+    left: 112px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+}
+
+
+#piller-2-line-1-div {
+
+    position: absolute;
+    top: 656px;
+    left: 495px;
+    width: 285px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+
+
+}
+
+
+
+#piller-2-line-2-div {
+
+    position: absolute;
+    top: 734px;
+    left: 494px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+
+}
+
+
+
+#piller-2-line-3-div {
+
+    position: absolute;
+    top: 808px;
+    left: 494px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+
+}
+
+
+#piller-3-line-1-div {
+
+    position: absolute;
+    top: 656px;
+    left: 874px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+
+}
+
+#piller-3-line-2-div {
+
+    position: absolute;
+    top: 734px;
+    left: 875px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px
+
+}
+
+
+#piller-3-line-3-div {
+
+    position: absolute;
+    top: 808px;
+    left: 874px;
+    width: 300px;
+    line-height: 27px;
+    font-family: "montserrat",sans-serif;
+    font-size: 14px;
+
+
+}
+
+#third-section-first-icon {
+    position: absolute;
+    top: 670px;
+    left: 83px;
+    color: red;
+}
+
+#third-section-second-icon {
+    position: absolute;
+    top: 750px;
+    left: 83px;
+    color: red;
+}
+
+#third-section-first-icon {
+    position: absolute;
+    top: 670px;
+    left: 83px;
+    color: red;
+}
+
+#third-section-second-icon {
+    position: absolute;
+    top: 750px;
+    left: 83px;
+    color: red;
+}
+
+#third-section-third-icon {position: absolute;top: 826px;left: 83px;color: red;}
+
+#third-section-fourth-icon {
+    position: absolute;
+    top: 670px;
+    left: 463px;
+    color: red;
+}
+
+#third-section-fifth-icon {
+    position: absolute;
+    top: 750px;
+    left: 463px;
+    color: red;
+}
+
+#third-section-sixth-icon {
+    position: absolute;
+    top: 824px;
+    left: 463px;
+    color: red;
+}
+
+#third-section-seventh-icon {
+    position: absolute;
+    top: 670px;
+    left: 844px;
+    color: red;
+}
+
+#third-section-eight-icon {position: absolute;top: 750px;left: 845px;color: red;}
+
+#third-section-ninght-icon {
+    position: absolute;
+    top: 825px;
+    left: 845px;
+    color: red;
+}
+
+#fourth-section {
+    position: absolute;
+    background-color: black;
+    width: 1294px;
+    height: 600px;
+    top: 2374px;
+}
+
+
+#what-will-the-inner-circle {
+    font-family: "fjalla one",sans-serif;
+    position: absolute;
+    top: 1px;
+    left: 81px;
+    color: white;
+    text-shadow: -2px -2px 10px rgb(0 0 0 / 20%);
+    font-size: 4vw;
+    line-height: 1.2;
+    width: 517px;
+    text-align: center;
+    font-weight: 900;
+    letter-spacing: 3.9px;
+}
+
+
+#do-for-you-div {
+    position: absolute;
+    top: 142px;
+    background-color: white;
+    width: 490px;
+    left: 98px;
+    height: 100px;
+    transform: rotate(-3deg);
+}
+
+#do-for-you {
+    position: relative;
+    text-align: center;
+    font-size: 4.4vw;
+    top: -8px;
+    font-weight: 900;
+    padding: 10px 28px 10px 10px;
+    height: 133px;
+    width: 518px;
+    --e-global-typography-primary-font-family: montserrat;
+    color: #000000;
+    letter-spacing: 8px;
+}
+
+
+#fourth-section-pic-1 {
+    position: absolute;
+    width: 261px;
+    top: 382px;
+    left: 677px;
+    border: white 5px solid;
+    transform: rotate(-7deg);
+}
+
+
+#fourth-section-pic-3 {
+    position: absolute;
+    width: 261px;
+    border: white 5px solid;
+    top: 64px;
+    left: 902px;
+    transform: rotate(10deg);
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    -ms-transform: rotate(10deg);
+    -o-transform: rotate(10deg);
+}
+
+#fourth-section-pic-4 {
+    position: absolute;
+    width: 261px;
+    border: white 5px solid;
+    top: 277px;
+    left: 895px;
+    transform: rotate(17deg);
+}
+
+#fourth-section-pic-2 {
+    position: absolute;
+    width: 261px;
+    border: white 5px solid;
+    top: 141px;
+    left: 660px;
+    transform: rotate(-25deg);
+}
+
+#fourth-section-pic-5 {
+    position: absolute;
+    width: 261px;
+    top: 742px;
+    left: 925px;
+    border: white 5px solid;
+    transform: rotate(7deg);
+}
+
+#fourth-section-background-pic {
+    position: relative;
+    width: 1294px;
+    height: 795px;
+}
+
+#fourth-section-background-overlay {
+    position: absolute;
+    background: #B41114;
+    width: 1294px;
+    height: 795px;
+    top: 0px;
+    opacity: 90%;
+}
+
+
+#fourth-section-line-1-div {
+    position: absolute;
+    top: 290px;
+    width: 535px;
+    left: 97px;
+    font-family: "montserrat",sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 35px;
+}
+
+#fourth-section-line-2-div {
+    position: absolute;
+    top: 375px;
+    width: 535px;
+    left: 97px;
+    font-family: "montserrat",sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 35px;
+}
+
+#fourth-section-line-3-div {
+    position: absolute;
+    top: 460px;
+    width: 535px;
+    left: 97px;
+    font-family: "montserrat",sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 35px;
+}
+
+
+#fourth-section-line-4-div {
+    position: absolute;
+    top: 550px;
+    width: 535px;
+    left: 97px;
+    font-family: "montserrat",sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 35px;
+}
+
+
+#fourth-section-line-5-div {
+    position: absolute;
+    top: 645px;
+    width: 535px;
+    left: 97px;
+    font-family: "montserrat",sans-serif;
+    color: white;
+    font-weight: 600;
+    font-size: 1.2vw;
+    line-height: 35px;
+}
+
+#fourth-section-first-icon {
+    position: absolute;
+    top: 314px;
+    left: 67px;
+    color: white;
+}
+
+#fourth-section-second-icon {
+    position: absolute;
+    top: 400px;
+    left: 67px;
+    color: white;
+}
+
+#fourth-section-third-icon {
+    position: absolute;
+    top: 485px;
+    left: 67px;
+    color: white;
+}
+
+#fourth-section-fourth-icon {
+    position: absolute;
+    top: 575px;
+    left: 67px;
+    color: white;
+}
+
+#fourth-section-fifth-icon {
+    position: absolute;
+    top: 670px;
+    left: 67px;
+    color: white;
+}
+
+
+#look-inside-inner-cicle-link-2 {
+    background: white;
+    width: 500px;
+    display: block;
+    height: 51px;
+    font-family: montserrat,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    position: absolute;
+    top: 740px;
+    left: 89px;
+    color: black;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+#look-inside-inner-cicle-link-2:hover{
+    transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+#fifth-section {
+    position: absolute;
+    width: 1294px;
+    height: 1260px;
+    background-color: black;
+    top: 3169px;
+}
+
+#fifth-section-insta-icon {
+    position: absolute;
+    top: 78px;
+    left: 295px;
+    font-size: 60px;
+    color: #C3118E;
+}
+
+#fifth-section-follow-alex-costa-div {
+    position: absolute;
+    left: 360px;
+    font-family: "merriweather",montserrat;
+    color: white;
+    top:92px;
+}
+
+#fifth-section-follow-alex-costa {
+    font-size: 56px;
+}
+
+#follow-alex-costa-pic-1-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+
+
+#follow-alex-costa-pic-1-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic {
+    width: inherit;
+    height: inherit;
+}
+
+
+#follow-alex-costa-pic-2-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-2-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-2 {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-3-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-3-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-3{
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-4-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-4-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-4{
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-5-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-5-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-5 {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-6-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-6-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-6 {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-7-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-7-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-7 {
+    width: inherit;
+    height: inherit;
+}
+
+
+#follow-alex-costa-pic-8-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-8-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-8 {
+    width: inherit;
+    height: inherit;
+}
+
+
+#follow-alex-costa-pic-9-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+#follow-alex-costa-pic-9-link {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-9 {
+    width: inherit;
+    height: inherit;
+}
+
+#follow-alex-costa-pic-1-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 231px;
+    left: 186px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+#follow-alex-costa-pic-2-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 231px;
+    left: 505px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+#follow-alex-costa-pic-3-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 231px;
+    left: 828px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+#follow-alex-costa-pic-4-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 560px;
+    left: 186px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+#follow-alex-costa-pic-5-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 560px;
+    left: 505px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+#follow-alex-costa-pic-6-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 560px;
+    left: 828px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+#follow-alex-costa-pic-7-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 895px;
+    left: 186px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+
+
+#follow-alex-costa-pic-8-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 895px;
+    left: 505px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+
+}
+
+
+#follow-alex-costa-pic-9-div {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 895px;
+    left: 828px;
+    transition: 0.6s;
+    -webkit-transition: 0.6s;
+    -moz-transition: 0.6s;
+    -ms-transition: 0.6s;
+    -o-transition: 0.6s;
+}
+
+#follow-alex-costa-pic-1-div:hover{
+    top:220px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+}
+
+
+
+#follow-alex-costa-pic-2-div:hover{
+
+    top:220px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+
+}
+#follow-alex-costa-pic-3-div:hover{
+
+    top:220px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+}
+
+
+#follow-alex-costa-pic-4-div:hover{
+
+    top:547px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+
+}
+
+#follow-alex-costa-pic-5-div:hover{
+
+    top:547px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+
+}
+
+#follow-alex-costa-pic-6-div:hover{
+
+    top:547px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+
+}
+#follow-alex-costa-pic-7-div:hover{
+
+    top:880px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+}
+
+#follow-alex-costa-pic-8-div:hover{
+
+    top:880px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+
+}
+
+#follow-alex-costa-pic-9-div:hover {
+
+    top:880px;
+    transition:0.4s;
+    -webkit-transition:0.4s;
+    -moz-transition:0.4s;
+    -ms-transition:0.4s;
+    -o-transition:0.4s;
+}
+
+
+#sixth-section {
+    position: absolute;
+    width: 1294px;
+    height: 1650px;
+    top: 4429px;
+    background-color: white;
+}
+
+#sixth-section-youtube-icon {
+    position: absolute;
+    top: 55px;
+    left: 400px;
+    font-size: 60px;
+    color: red;
+}
+
+#sixth-section-watch-alex-costa-div {
+    position: absolute;
+    top: 63px;
+    left: 495px;
+}
+
+#sixth-section-watch-alex-costa {
+    font-family: abhaya libre;
+    font-size: 70px;
+}
+
+
+#sixth-section-youtube-video-1 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 193px;
+    left: 85px;
+}
+
+#sixth-section-youtube-video-2 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 193px;
+    left: 660px;
+}
+
+#sixth-section-youtube-video-3 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 540px;
+    left: 85px;
+}
+
+
+#sixth-section-youtube-video-4 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 540px;
+    left: 660px;
+}
+
+#sixth-section-youtube-video-5 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 890px;
+    left: 85px;
+}
+
+#sixth-section-youtube-video-6 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 890px;
+    left: 660px;
+}
+
+#sixth-section-youtube-video-7 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 1240px;
+    left: 85px;
+}
+
+#sixth-section-youtube-video-8 {
+    width: 520px;
+    height: 300px;
+    position: absolute;
+    top: 1240px;
+    left: 660px;
+}
+
+#seventh-section {
+    position: absolute;
+    width: 1294px;
+    height: 600px;
+    top: 6080px;
+}
+
+#seventh-section-background-image-1 {
+    position: absolute;
+    width: 33%;
+    height: 562px;
+}
+
+#seventh-section-background-image-2 {
+    position: absolute;
+    left: 426px;
+    width: 32%;
+    height: 562px;
+}
+
+#seventh-section-background-image-3 {
+    position: absolute;
+    left: 839px;
+    width: 33%;
+    height: 562px;
+}
+
+
+#seventh-section-background-photo-dissolver {
+    position: absolute;
+    width: 1294px;
+    height: 562px;
+    background-color: #000000a6;
+}
+
+#seventh-section-stand-a-level-above {
+    position: absolute;
+    color: white;
+    top: 37px;
+    left: 359px;
+    font-family: "montserrat",sans-serif;
+    font-size: 150%;
+}
+
+
+#seventh-section-stand-a-level-above {
+    position: absolute;
+    color: white;
+    top: 37px;
+    left: 359px;
+    font-family: "montserrat",sans-serif;
+    font-size: 150%;
+}
+
+#seventh-section-inner-circle-text {
+    position: absolute;
+    color: white;
+    top: 55px;
+    left: 215px;
+    --e-global-typography-primary-font-family: montserrat;
+    font-size: 100px;
+}
+
+#seventh-section-an-ambitious-men-text {
+    position: absolute;
+    color: white;
+    top: 198px;
+    left: 81px;
+    font-family: "montserrat",sans-serif;
+    font-size: 150%;
+}
+
+#seventh-section-inner-circle-image {
+    position: absolute;
+    top: 209px;
+    transform: scale(0.7);
+    left: -283px;
+}
+
+#seventh-section-look-inside-inner-circle-link-last {
+    position: absolute;
+    top: 486px;
+    left: 343px;
+    background: #C31111;
+    width: 580px;
+    display: block;
+    height: 61px;
+    font-family: montserrat,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+#seventh-section-look-inside-inner-circle-link-last:hover{
+    background-color: #FE3030;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+#last-section {
+    position: absolute;
+    width: 1294px;
+    height: 222px;
+    top: 6642px;
+    background-color: #181920;
+}
+
+#footer-logo {
+    position: absolute;
+    width: 180px;
+    top: 68px;
+    left: 85px;
+    cursor: pointer;
+}
+
+#footer-home-link {
+    position: absolute;
+    left: 406px;
+    color: #C6C6C6;
+    font-weight: 700;
+    font-size: 13px;
+    top: 76px;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 8px;
+}
+
+#footer-members-area-link {
+    position: absolute;
+    left: 514px;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    top: 76px;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 8px;
+}
+
+#footer-members-area-link:hover{
+
+    color: #C6C6C6;
+}
+
+#footer-terms-of-service-link {
+    position: absolute;
+    left: 751px;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    top: 76px;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 8px;
+}
+
+#footer-terms-of-service-link:hover{
+
+    color: #C6C6C6;
+}
+
+#footer-privacy-policy-link {
+    position: absolute;
+    left: 526px;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    top: 119px;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 8px;
+}
+
+#footer-privacy-policy-link:hover {
+
+    color: #C6C6C6;
+}
+
+#footer-support-link {
+    position: absolute;
+    left: 761px;
+    color: white;
+    font-weight: 700;
+    font-size: 13px;
+    top: 119px;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 8px;
+}
+
+#footer-support-link:hover{
+
+color: #C6C6C6;
+
+}
+
+#footer-facebook-logo-div {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 60px;
+    left: 1086px;
+    cursor: pointer;
+}
+
+#footer-insta-logo-div {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 60px;
+    left: 1140px;
+    cursor: pointer;
+}
+
+#footer-youtube-logo-divs {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 60px;
+    left: 1194px;
+    cursor: pointer;
+}
+
+#footer-copyright-text {
+    position: absolute;
+    color: white;
+    top: 180px;
+    left: 499px;
+}
+
+
+
+    #carousel-section{
+
+    width: 150%;
+
+    }
+
+
+    #carousel{
+
+    margin-left:-380px
+
+    }
+
+
+    .backgrounddd-color {
+        position: absolute;
+        width: 150%;
+        top: -702px;
+        background-color: #313236;
+        opacity: 65%;
+        height: 713px;
+    }
+
+
+    #video-carousel-example{
+
+    max-width: 150%;
+
+    }
+
+
+    #alex-costa-avatar {
+    position: absolute;
+    align-items: center;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 70vw;
+    top: -613px;
+    left: 66px;
+    }
+
+    #alex-costa-signature {
+        position: absolute;
+        align-items: center;
+        display: flex;
+        align-content: center;
+        flex-wrap: wrap;
+        width: 50%;
+        top: -500px;
+        opacity:0%;
+    }
+
+    #ready-to-become {
+        position: relative;
+        top: -294px;
+        font-size: 4vw;
+        letter-spacing: 8px;
+        left: -17px;
+    }
+
+    #best-version-of-yourself-text {
+        position: absolute;
+        font-size: 42px;
+        top: -219px;
+        font-weight: bolder;
+        width: 461px;
+        line-height: 43px;
+        left: -64px;
+    }
+
+    #become-the-man-text {
+        position: absolute;
+        top: -104px;
+        font-size: 22px;
+        width: 600px;
+        left: -144px;
+        letter-spacing: 5px;
+    }
+
+    #first-innercircle-button {
+        background: #FE3030;
+        width: 559px;
+        height: 92px;
+        font-family: montserrat,sans-serif;
+        text-decoration: none;
+        text-align: center;
+        font-size: 25px;
+        margin-left: -113px;
+        margin-top: -69px!important;
+        letter-spacing: 9px;
+        font-weight: bold;
+        color: cornsilk;
+        border-radius: 0px;
+    }
+    
+  
+
+    #followers-count-section {
+        position: absolute;
+        top: 712px;
+        left: 0px;
+        width: 100%;
+        height: 75px;
+    }
+
+    #background-color-div {
+        background-color: transparent;
+        background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+    }
+
+    #follower-text {
+        position: relative;
+        height: 75px;
+        width: 100%;
+    }
+    
+    #youtube-subscriber {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 6.8px;
+    position: relative;
+    top: 5px;
+    left: 33px;
+    }
+
+    #subscribers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    top: -12px;
+    left: 5px;
+    letter-spacing: 6px;
+    max-width: 300px;
+    }
+    
+    #instagram-followers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 7.8px;
+    position: relative;
+    top: -94px;
+    left: 181px;
+    border-left: 3px solid white;
+    height: 64px;
+    border-right: 3px solid white;
+    width: 158px;
+    padding-left: 25px;
+    }
+    
+    #followers {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: -130px;
+    left: 189px;
+    letter-spacing: 6px;
+    }
+    
+    #youtube-view {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    letter-spacing: 10px;
+    position: relative;
+    top: -210px;
+    left: 353px
+    }
+    
+    #video-views {
+    color: white;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    position: relative;
+    top: -228px;
+    left: 348px;
+    letter-spacing: 5px;
+    }
+    
+    #background-color-div {
+        background-color: transparent;
+        background-image: linear-gradient(100deg, #C31111 0%, #A333AB 100%);
+    }
+    
+    #followers-border-white {
+    position: relative;
+    width: 220px;
+    top: -268px;
+    height: 51px;
+    left: 523px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    }
+
+
+
+}
