@@ -5,7 +5,7 @@
  /* for mobiles devices with small screen sizes to mobiles with large screen sizes (portrait mode) (starts)*/
 
 
- @media screen and (orientation:portrait){
+ @media screen and (max-width:424px){
 
     body {
     
